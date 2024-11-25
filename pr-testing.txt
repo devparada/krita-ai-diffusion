@@ -1,0 +1,3 @@
+title: Update es.json
+mensaje: fixing typographical errors and words
+commit: [Único commit idioma]
